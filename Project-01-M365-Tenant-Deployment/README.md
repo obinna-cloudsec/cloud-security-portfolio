@@ -8,7 +8,7 @@ This public GitHub version includes sanitized evidence screenshots. Company name
 
 ## Architecture
 
-![Microsoft 365 Tenant Deployment Architecture](diagrams/architecture.png)
+![Microsoft 365 Tenant Deployment Architecture](architecture.png)
 
 ## Project Summary
 
@@ -76,51 +76,51 @@ The following screenshots were sanitized for public portfolio use. The redacted 
 
 ### 1. Microsoft 365 Portal Access
 
-![Microsoft 365 Portal Access](screenshots/01-m365-portal-access.png)
+![Microsoft 365 Portal Access](01-m365-portal-access.png)
 
 ### 2. Microsoft 365 Admin Center
 
-![Microsoft 365 Admin Center](screenshots/02-m365-admin-center.png)
+![Microsoft 365 Admin Center](02-m365-admin-center.png)
 
 ### 3. Active Users Page
 
-![Active Users Page](screenshots/03-active-users.png)
+![Active Users Page](03-active-users.png)
 
 ### 4. User Properties and License Assignment
 
-![User Properties and License Assignment](screenshots/04-user-properties-license.png)
+![User Properties and License Assignment](04-user-properties-license.png)
 
 ### 5. Microsoft Teams Admin Center
 
-![Microsoft Teams Admin Center](screenshots/05-teams-admin-center.png)
+![Microsoft Teams Admin Center](05-teams-admin-center.png)
 
 ### 6. Exchange Admin Center
 
-![Exchange Admin Center](screenshots/06-exchange-admin-center.png)
+![Exchange Admin Center](06-exchange-admin-center.png)
 
 ### 7. Microsoft Entra ID Admin Center
 
-![Microsoft Entra ID Admin Center](screenshots/07-entra-id-admin-center.png)
+![Microsoft Entra ID Admin Center](07-entra-id-admin-center.png)
 
 ### 8. SharePoint Admin Center
 
-![SharePoint Admin Center](screenshots/08-sharepoint-admin-center.png)
+![SharePoint Admin Center](08-sharepoint-admin-center.png)
 
 ### 9. SharePoint Document Upload
 
-![SharePoint Document Upload](screenshots/09-sharepoint-document-upload.png)
+![SharePoint Document Upload](09-sharepoint-document-upload.png)
 
 ### 10. Outlook Desktop Inbox
 
-![Outlook Desktop Inbox](screenshots/10-outlook-desktop-inbox.png)
+![Outlook Desktop Inbox](10-outlook-desktop-inbox.png)
 
 ### 11. Outlook on the Web Inbox
 
-![Outlook on the Web Inbox](screenshots/11-outlook-web-inbox.png)
+![Outlook on the Web Inbox](11-outlook-web-inbox.png)
 
 ### 12. Microsoft Teams Meeting Validation
 
-![Microsoft Teams Meeting Validation](screenshots/12-teams-meeting-validation.png)
+![Microsoft Teams Meeting Validation](12-teams-meeting-validation.png)
 
 ## Validation Results
 
