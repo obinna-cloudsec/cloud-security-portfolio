@@ -15,7 +15,7 @@ This public GitHub version has been sanitized. Company names, user names, email 
 | Area | Details |
 |---|---|
 | Project Type | Microsoft 365 PowerShell automation and platform expansion |
-| Project Level | Level 2 Microsoft 365 automation project |
+| Project | Microsoft 365 automation project |
 | Client Type | Growing organization |
 | Environment | Microsoft 365 cloud tenant |
 | Primary Role | Microsoft 365 Engineer / Cloud Administrator |
@@ -187,4 +187,4 @@ The project demonstrates practical automation capability across Microsoft 365 id
 
 ## Conclusion
 
-This project demonstrates Level 2 Microsoft 365 PowerShell automation experience across Microsoft Graph PowerShell, Microsoft Teams PowerShell, Exchange Online PowerShell, and SharePoint Online Management Shell. It supports career positioning for Microsoft 365 Engineer, Microsoft 365 Administrator, Cloud Engineer, Teams Engineer, and Modern Workplace Engineer roles.
+This project demonstrates Microsoft 365 PowerShell automation experience across Microsoft Graph PowerShell, Microsoft Teams PowerShell, Exchange Online PowerShell, and SharePoint Online Management Shell. It supports career positioning for Microsoft 365 Engineer, Microsoft 365 Administrator, Cloud Engineer, Teams Engineer, and Modern Workplace Engineer roles.
