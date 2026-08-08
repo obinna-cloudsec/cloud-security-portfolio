@@ -15,7 +15,7 @@ This public GitHub version has been sanitized. Company names, domain names, user
 | Area | Details |
 |---|---|
 | Project Type | Windows Server AD and Microsoft Entra ID hybrid identity synchronization |
-| Project Level | Level 2 identity and infrastructure project |
+| Project | Identity and infrastructure project |
 | Client Type | Organization with on-premises identity and Microsoft 365 cloud services |
 | Environment | Windows Server Active Directory and Microsoft Entra ID |
 | Primary Role | Microsoft Identity and Access Engineer / Microsoft Cloud Security Engineer |
@@ -177,4 +177,4 @@ The hybrid identity environment was successfully validated across Windows Server
 
 ## Conclusion
 
-This project demonstrates Level 2 hybrid identity experience across Windows Server Active Directory, DNS, DHCP, Group Policy, Microsoft Entra ID, Microsoft Entra Connect Sync, and Microsoft 365 cloud user validation. It supports career positioning for Microsoft Identity and Access Engineer, Microsoft Cloud Security Engineer, Microsoft Systems Engineer, Microsoft 365 Cloud Engineer and Azure Cloud Engineer roles.
+This project demonstrates hybrid identity experience across Windows Server Active Directory, DNS, DHCP, Group Policy, Microsoft Entra ID, Microsoft Entra Connect Sync, and Microsoft 365 cloud user validation. It supports career positioning for Microsoft Identity and Access Engineer, Microsoft Cloud Security Engineer, Microsoft Systems Engineer, Microsoft 365 Cloud Engineer and Azure Cloud Engineer roles.
