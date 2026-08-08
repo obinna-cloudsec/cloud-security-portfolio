@@ -15,7 +15,7 @@ This public GitHub version has been sanitized. Company names, meeting participan
 | Area | Details |
 |---|---|
 | Project Type | Microsoft Teams Premium feature implementation and meeting experience validation |
-| Project Level | Level 2 Microsoft Teams Premium project |
+| Project | Microsoft Teams Premium project |
 | Client Type | Organization using Microsoft Teams for meetings and communications |
 | Environment | Microsoft 365 cloud tenant |
 | Primary Role | Microsoft 365 Modern Work Cloud Engineer / Microsoft Teams Engineer |
@@ -151,4 +151,4 @@ The Microsoft Teams Premium meeting experience was successfully validated across
 
 ## Conclusion
 
-This project demonstrates Level 2 Microsoft Teams Premium experience across advanced Teams meeting features, AI collaboration, translation, event governance, telemetry awareness, and meeting protection. It supports career positioning for Microsoft 365 Cloud Engineer, Microsoft Teams Engineer, Modern Workplace Engineer, and Teams & Voice Engineer roles.
+This project demonstrates Microsoft Teams Premium experience across advanced Teams meeting features, AI collaboration, translation, event governance, telemetry awareness, and meeting protection. It supports career positioning for Microsoft 365 Cloud Engineer, Microsoft Teams Engineer, Modern Workplace Engineer, and Teams & Voice Engineer roles.
