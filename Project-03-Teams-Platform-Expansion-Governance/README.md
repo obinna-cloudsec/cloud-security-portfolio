@@ -15,7 +15,7 @@ This public GitHub version has been sanitized. Company names, admin usernames, u
 | Area | Details |
 |---|---|
 | Project Type | Microsoft Teams platform expansion and governance |
-| Project Level | Level 2 Microsoft Teams administration project |
+| Project | Microsoft Teams administration project |
 | Client Type | Growing organization |
 | Environment | Microsoft 365 cloud tenant |
 | Primary Role | Microsoft 365 Cloud Engineer / Microsoft Teams Engineer |
@@ -211,4 +211,4 @@ The project demonstrates practical Microsoft Teams administration experience acr
 
 ## Conclusion
 
-This project demonstrates Level 2 Microsoft Teams administration experience across Teams structure, private channels, Teams policies, messaging governance, meeting settings, caller ID policies, Teams Rooms, audio conferencing, and Teams Events. It supports career positioning for Microsoft 365 Cloud Engineer, Microsoft Teams Engineer, Modern Workplace Engineer, and Unified Communications Engineer roles.
+This project demonstrates Microsoft Teams administration experience across Teams structure, private channels, Teams policies, messaging governance, meeting settings, caller ID policies, Teams Rooms, audio conferencing, and Teams Events. It supports career positioning for Microsoft 365 Cloud Engineer, Microsoft Teams Engineer, Modern Workplace Engineer, and Unified Communications Engineer roles.
