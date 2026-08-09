@@ -23,11 +23,22 @@ Microsoft 365 and Cloud Security Engineer
 
 ## Project Portfolio
 
-Projects will be added here as they are completed.
+### 🥇 Project 07 – Microsoft 365 Cloud Security, Identity Protection and Information Governance
+Conditional Access, Identity Protection, PIM, Access Reviews, DLP, Information Barriers, eDiscovery
 
-### Projects
+### 🥈 Project 06 – Active Directory and Microsoft Entra Hybrid Identity Synchronization
+AD DS, Entra Connect, synchronization, hybrid identity
 
-1. Microsoft 365 Advanced Security Implementation
+### 🥉 Project 04 – Microsoft 365 PowerShell Automation
+Automation, reporting, administration
+
+### 4️⃣ Project 03 – Teams Governance and Communications
+
+### 5️⃣ Project 05 – Teams Premium and AI Secure Meetings
+
+### 6️⃣ Project 02 – Messaging and Collaboration
+
+### 7️⃣ Project 01 – Microsoft 365 Tenant Deployment
 
 ## Connect With Me
 
