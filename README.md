@@ -39,9 +39,3 @@ Automation, reporting, administration
 ### 6️⃣ Project 02 – Messaging and Collaboration
 
 ### 7️⃣ Project 01 – Microsoft 365 Tenant Deployment
-
-## Connect With Me
-
-LinkedIn: ADD_LATER
-
-GitHub: ADD_LATER
